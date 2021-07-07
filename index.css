@@ -1,0 +1,22 @@
+body{
+ background-color: rgb(187, 186, 186);
+}
+table{
+margin: 30px;
+
+}
+td{
+border:2px solid black;
+width: 80px;
+height: 80px;
+background-color: rgb(66, 180, 184);
+padding: 10px;
+}
+.otherclass{
+    border:2px solid black;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(235, 172, 79);
+    padding: 10px;
+
+}
